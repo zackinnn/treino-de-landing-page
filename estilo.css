@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color:white;}
+#abas{
+    color:aliceblue
+}
+#babas{
+    border-style: none;
+    background-color: black;
+    color:white;
+}
+#babas1{
+    border-style: none;
+    background-color: black;
+    color:white;
+}
+#babas2{
+    
+    border-style: none;
+    background-color:black;
+    color:white;
+}
+#babas3{
+    border-style: none;
+    background-color:black;
+    color:greenyellow;
+}
+#foto{
+    width: 600px;
+    display: block;
+    margin:  100px auto
+}
+#prg{
+    color:greenyellow;
+    text-align: center;
+}
+#prg1{
+    color:white;
+    text-align: center;
+}
+#prag{
+    text-align: center;
+    color:white;
+}
+
